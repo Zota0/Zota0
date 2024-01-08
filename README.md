@@ -9,10 +9,13 @@
 -->
 
 <div> I am learning programmer... </div>
+
+<hr noshade="true">
+
+
 <br>
 
 - 🤔💭 I am learning:
-<br>
 <br>
    • PHP
 <br>
