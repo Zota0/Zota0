@@ -50,13 +50,12 @@
    • mail:
 <br>
      kontakt.pcgamerpl6.yt+request@gmail.com
-<br>
+<br><br>
    • discord:
 <br>
 [W.I.P]
 <br>
 <hr noshade="true>
-<br>
 - ⚡ Fun fact:
 <br>
 <br>
@@ -72,7 +71,7 @@
       ❌ books
 <br>
       ❌ light theme websites
-<br>
+<br><br><br>
       
 
 <!-- 
