@@ -55,6 +55,8 @@
 <br>
 [W.I.P]
 <br>
+<hr noshade="true">
+<br>
 <br>
 <br>
 - ⚡ Fun fact:
