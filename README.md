@@ -41,6 +41,7 @@
    • 3D game with C++
 <br>
    • Modern and very good looking website
+<hr noshade="true">
 <br>
 <br>
 <br>
@@ -56,7 +57,6 @@
 [W.I.P]
 <br>
 <hr noshade="true">
-<br>
 <br>
 <br>
 - ⚡ Fun fact:
@@ -76,7 +76,6 @@
       ❌ light theme websites
 <br>
       
-
 
 <!-- 
 - 🔭 I’m currently working on ...
