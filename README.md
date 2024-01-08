@@ -2,8 +2,6 @@
 
 <div> I am from Poland </div>
 
-<hr noshade="true">
-
 <!--
 **Zota0/Zota0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
