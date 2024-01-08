@@ -1,6 +1,6 @@
-<div align="center"> Hi I am me... </div>
+<div align="center">👉 Hi I am me... 👈</div>
 
-<div align="center"> I am from Poland. </div>
+<div align="center">🇵🇱 I am from Poland. 🇵🇱</div>
 
 <!--
 **Zota0/Zota0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
