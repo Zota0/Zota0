@@ -1,4 +1,3 @@
-
 <div style='color:blue;'> Hi I am me </div>
 
 <div> I am from Poland </div>
@@ -10,10 +9,10 @@
 -->
 
 <div> I am learning programmer... </div>
-
 <br>
 
 - 🤔💭 I am learning:
+<br>
 <br>
    • PHP
 <br>
@@ -26,7 +25,9 @@
    • CSS
 <br>
 <br>
+<br>
 - 🔎👀 I want to learn:
+<br>
 <br>
    • C++
 <br>
@@ -41,7 +42,9 @@
    • Modern and very good looking website
 <br>
 <br>
+<br>
 - 📬📪 Contact me on:
+<br>
 <br>
    • mail:
 <br>
@@ -52,7 +55,9 @@
 [W.I.P]
 <br>
 <br>
+<br>
 - ⚡ Fun fact:
+<br>
 <br>
    • I like:
 <br>
