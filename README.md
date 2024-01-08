@@ -15,7 +15,7 @@
 
 - 🤔💭 I am learning:
 <br>
-   • PHP
+   • ![PHP](https://p7.hiclipart.com/preview/906/282/504/logo-image-computer-icons-php-portable-network-graphics-wm-logo.jpg)
 <br>
    • html
 <br>
