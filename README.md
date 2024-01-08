@@ -11,7 +11,7 @@
 
 <div> I am learning programmer... </div>
 
-
+<br>
 
 - 🤔💭 I am learning:
 <br>
@@ -24,7 +24,7 @@
    • MySQL
 <br>
    • CSS
-
+<br>
 <br>
 - 🔎👀 I want to learn:
 <br>
@@ -40,6 +40,7 @@
 <br>
    • Modern and very good looking website
 <br>
+<br>
 - 📬📪 Contact me on:
 <br>
    • mail:
@@ -50,6 +51,7 @@
 <br>
 [W.I.P]
 <br>
+<br>
 - ⚡ Fun fact:
 <br>
    • I like:
@@ -57,6 +59,7 @@
       ☑️ sleeping
 <br>
       ☑️ night
+<br>
 <br>
    • I don't like:
 <br>
