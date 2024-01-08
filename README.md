@@ -41,9 +41,8 @@
    • 3D game with C++
 <br>
    • Modern and very good looking website
+<br>
 <hr noshade="true">
-<br>
-<br>
 <br>
 - 📬📪 Contact me on:
 <br>
@@ -56,8 +55,7 @@
 <br>
 [W.I.P]
 <br>
-<hr noshade="true">
-<br>
+<hr noshade="true>
 <br>
 - ⚡ Fun fact:
 <br>
