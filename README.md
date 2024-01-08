@@ -1,4 +1,8 @@
-<div> Hi I am me </div>
+<style>
+.ej {color:blue;}
+</style>
+
+<div class="ej"> Hi I am me </div>
 
 <!--
 **Zota0/Zota0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
