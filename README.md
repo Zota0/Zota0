@@ -11,35 +11,59 @@
 
 <div> I am learning programmer... </div>
 
+
+
 - 🤔💭 I am learning:
+<br>
    • PHP
+<br>
    • html
+<br>
    • Javascript
+<br>
    • MySQL
+<br>
    • CSS
 
+<br>
 - 🔎👀 I want to learn:
+<br>
    • C++
-   • Python
+<br>
+  • Python
+<br>
    • Making mobile apps
-
+<br>
 - 🔭📡 I am working on:
+<br>
    • 3D game with C++
+<br>
    • Modern and very good looking website
-
+<br>
 - 📬📪 Contact me on:
-   • mail: kontakt.pcgamerpl6.yt+request@gmail.com
+<br>
+   • mail:
+<br>
+     kontakt.pcgamerpl6.yt+request@gmail.com
+<br>
    • discord:
+<br>
 [W.I.P]
-
+<br>
 - ⚡ Fun fact:
+<br>
    • I like:
+<br>
       ☑️ sleeping
+<br>
       ☑️ night
-
+<br>
    • I don't like:
-      ❌ roos books
+<br>
+      ❌ books
+<br>
       ❌ light theme websites
+<br>
       
 
 
