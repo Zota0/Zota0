@@ -36,6 +36,8 @@
 <br>
    • Making mobile apps
 <br>
+<br>
+<br>
 - 🔭📡 I am working on:
 <br>
    • 3D game with C++
